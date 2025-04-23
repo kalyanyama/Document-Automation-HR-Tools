@@ -1,0 +1,6 @@
+{
+  "/(secured-routes)/offer-letter/customized/page": "app/(secured-routes)/offer-letter/customized/page.js",
+  "/page": "app/page.js",
+  "/(secured-routes)/dashboard/page": "app/(secured-routes)/dashboard/page.js",
+  "/(secured-routes)/offer-letter/page": "app/(secured-routes)/offer-letter/page.js"
+}
